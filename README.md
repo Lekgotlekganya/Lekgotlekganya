@@ -98,12 +98,6 @@ That's where I want my career to be.
 
 </p>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Lekgotlekganya&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 
 ---
 
