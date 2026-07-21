@@ -49,7 +49,7 @@ I'm currently focused on:
 
 ---
 
-# 📂 Featured Projects
+# 📂 Projects
 
 ### ☁️ AWS re/Start Journey
 
@@ -88,20 +88,12 @@ Cloud computing is teaching me how to build those systems at scale.
 That's where I want my career to be.
 
 ---
-
-# 📈 GitHub Dashboard
+## 📈 GitHub Dashboard
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lekgotlekganya&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekgotlekganya&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lekgotlekganya&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekgotlekganya&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Lekgotlekganya&theme=tokyonight&hide_border=true"/>
 
 </p>
 
