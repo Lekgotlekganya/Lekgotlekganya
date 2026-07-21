@@ -1,68 +1,164 @@
+<div align="center">
 
-Hi there, I'm Kganya 👋
+# ☁️ Hi, I'm Kganya.
 
-I'm a recent Information Systems & Psychology graduate from Rhodes University, passionate about turning data into meaningful insights. 😄My pronouns are she/her. I love the intersection of human behavior and data — understanding not just what the numbers say, but why people do what they do.
-I'm actively building my Data Analytics portfolio and actively looking for my first opportunity to contribute, grow, and make an impact in a data-driven team.
+### Information Systems Graduate • Cloud Engineer in Training • Data Enthusiast
 
-About Me:  
+> *"Whatever it takes."*
 
-🎓 BA in Information Systems & Psychology — Rhodes University, Grahamstown.
- Based in South Africa.
- 🌱Currently sharpening my skills in SQL, Python, and Power BI.
-Interested in data analytics, business intelligence, and behavioral data.
-(Open to entry-level Data Analyst roles and graduate programmes.)
-Reach me at: lekgotlekganya@gmail.com
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&pause=1700&color=8A2BE2&center=true&vCenter=true&width=650&lines=Cloud+Engineer+in+Training;AWS+re%2FStart+Learner;Data+Analytics+Enthusiast;Building+One+Project+at+a+Time;Always+Learning." alt="Typing Animation">
 
-Tools & Skills :
+</div>
 
-Data & Analytics:
+---
 
-Microsoft Excel (Data Analysis, Macros, Pivot Tables)
-SQL (Statements, Indexes, Queries)
-Microsoft Power BI (Dashboards & Reporting)
-Python (learning — pandas & data wrangling)
+# 👋 About Me
 
-Development:
+I didn't start my journey in cloud computing.
 
-HTML, CSS, JavaScript, PHP
-Agile Methodology & Project Management
+My foundation is in **Information Systems and Psychology**, where I learned how technology supports people and how people interact with technology.
 
-Research & People Skills:
+That curiosity eventually led me to cloud computing.
 
-Research Methods (Qualitative & Quantitative)
-Psychological Assessment & Behavioral Analysis
-Tutoring, Communication & Student Leadership
+Today, I'm completing the **AWS re/Start Programme**, building hands-on cloud projects, strengthening my skills in Linux, Python and networking, and learning the infrastructure that powers modern applications.
 
-📂 Featured Projects: Project Tools Description
+I believe the best way to learn is by building, documenting, making mistakes, and improving every single day.
 
-Microsoft Excel (Data Analysis, Macros, PivotTables)
-SQL (Statements, Indexes, Queries)
-Microsoft Power BI (Dashboards & Reporting)
-🔭Python (learning — pandas & data wrangling) - looking to learn. 
-  
-📜 Certifications:
+---
 
-☁️ AWS AI Practitioner Learning Plan — Amazon Web Services
-Generative AI for Decision Makers — Amazon Web Services
-Basics of Data Analysis and Macros in Excel — UniAthena
-Basics of SQL Statements and Indexes — UniAthena
-Basics of Microsoft Power BI — UniAthena
+# 🚀 Current Mission
 
-🌟 A Little Extra:
-My Psychology background provides me with a unique perspective that is not common among analysts: I consider the human element that underpins the data. Whether it's understanding customer behaviour, student performance, or organisational patterns, I bring both analytical rigour and people insight to the table.
+I'm currently focused on:
 
-Thanks for stopping by! Feel free to explore my projects and reach out — I'd love to connect. 😊
+- ☁️ Completing the AWS re/Start Programme
+- 📚 Preparing for the AWS Certified Cloud Practitioner exam
+- 🤖 Preparing for the AWS Certified AI Practitioner exam
+- 🐍 Building Python projects
+- 📊 Expanding my data analytics portfolio
+- 🌐 Creating my cloud portfolio website
 
+---
 
-<!--
-**Lekgotlekganya/Lekgotlekganya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,python,mysql,linux,git,github,html,css,vscode"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+### ☁️ AWS re/Start Journey
+
+Learning cloud from the ground up through hands-on labs, notes and real AWS projects.
+
+---
+
+### 📊 Superstore Sales Analysis
+
+Exploring retail data to uncover trends, patterns and business insights using data analytics techniques.
+
+---
+
+### 📉 Customer Churn Analysis
+
+Understanding customer behaviour through data and identifying factors that influence customer retention.
+
+---
+
+### 📈 Excel Project
+
+Building dashboards, analysing datasets and solving business problems using Microsoft Excel.
+
+---
+
+# 🌱 My Philosophy
+
+Technology is at its best when it helps people.
+
+My background in **Information Systems** taught me how systems work.
+
+**Psychology** taught me why people use them.
+
+Cloud computing is teaching me how to build those systems at scale.
+
+That's where I want my career to be.
+
+---
+
+# 📈 GitHub Dashboard
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lekgotlekganya&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekgotlekganya&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Lekgotlekganya&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- AWS Cloud
+- Linux
+- Python
+- Networking
+- IAM
+- EC2
+- Amazon S3
+- Data Analytics
+- Git & GitHub
+
+---
+
+# 🌍 Beyond Tech
+
+Outside technology you'll usually find me...
+
+🤝 Giving back through community initiatives
+
+🎨 Exploring design and user experience
+
+📖 Learning something new
+
+🌱 Looking for ways technology can create meaningful impact
+
+---
+
+# 📬 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Lekgotlekganya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+www.linkedin.com/in/kganya-lekganyane
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for stopping by.
+
+I'm still early in my journey, but every project here represents another step forward.
+
+If something catches your interest, feel free to explore my repositories.
+
+⭐ Happy coding!
+
+</div>
+
 -->
