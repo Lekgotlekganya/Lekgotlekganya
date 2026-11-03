@@ -121,7 +121,7 @@ Exploring retail sales data to uncover trends, patterns and business insights.
 
 **Focus:** Data Analytics · Data Visualisation · Business Insights
 
-[Explore Repository](https://github.com/Lekgotlekganya)
+[Explore Repository](https://github.com/Lekgotlekganya/customer-churn-analysis)
 
 ### 📉 Customer Churn Analysis
 Investigating customer behaviour and identifying patterns associated with customer retention and churn.
@@ -130,14 +130,14 @@ Investigating customer behaviour and identifying patterns associated with custom
 
 **Focus:** Data Cleaning · Exploratory Data Analysis · Visualisation
 
-[Explore Repository](https://github.com/Lekgotlekganya/Churn-Analysis-for-Customer)
+[Explore Repository]()
 
 ### 📈 Excel Projects
 Using spreadsheets to organise information, analyse datasets and develop practical solutions to business problems.
 
 **Focus:** Excel · Data Analysis · Reporting
 
-[Explore Repository](https://github.com/Lekgotlekganya/Excel-Project)
+[Explore Repository](https://github.com/Lekgotlekganya/excel-data-analysis)
 
 ### ☁️ AWS Cloud Fundamentals
 Documenting my AWS re/Start journey through hands-on labs, cloud exercises and practical learning.
