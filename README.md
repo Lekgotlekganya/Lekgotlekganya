@@ -121,7 +121,7 @@ Exploring retail sales data to uncover trends, patterns and business insights.
 
 **Focus:** Data Analytics · Data Visualisation · Business Insights
 
-[Explore Repository](https://github.com/Lekgotlekganya/customer-churn-analysis)
+[Explore Repository](https://github.com/Lekgotlekganya/superstore-sales-analysis)
 
 ### 📉 Customer Churn Analysis
 Investigating customer behaviour and identifying patterns associated with customer retention and churn.
@@ -130,7 +130,7 @@ Investigating customer behaviour and identifying patterns associated with custom
 
 **Focus:** Data Cleaning · Exploratory Data Analysis · Visualisation
 
-[Explore Repository]()
+[Explore Repository](https://github.com/Lekgotlekganya/customer-churn-analysis)
 
 ### 📈 Excel Projects
 Using spreadsheets to organise information, analyse datasets and develop practical solutions to business problems.
@@ -144,7 +144,7 @@ Documenting my AWS re/Start journey through hands-on labs, cloud exercises and p
 
 **Focus:** AWS · Cloud Fundamentals · Linux · Networking · IAM
 
-[Explore Repository](https://github.com/Lekgotlekganya/AWS-re-Start-Programe-Cloud-Fundamentals)
+[Explore Repository](https://github.com/Lekgotlekganya/aws-restart-cloud-fundamentals)
 
 ### 🌍 Municipal Issue Reporting Platform
 A collaborative Umuzi DTS Sprint project exploring a digital approach to community-level municipal reporting challenges.
