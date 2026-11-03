@@ -5,18 +5,6 @@
 # PROJECT K
 ### 💜 Building with Purpose.
 
-
-☁️ AWS Cloud | 📊 Data Analytics | 💡 Human-Centred Technology
-
----
-
-### 🚀 About Me
-### 🛠️ Tech & Tools
-### 📂 Featured Projects
-### 🎓 Certifications & Learning
-### 🌱 Beyond Technology
-### 🤝 Let's Connect
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1500&color=A78BFA&center=true&vCenter=true&width=650&lines=Information+Systems+%C3%97+Psychology;AWS+Certified+Cloud+Practitioner;Exploring+Data+%26+Business+Analytics;Technology+with+a+Human+Touch;Learn.+Build.+Solve.+Give+Back." alt="Typing SVG" />
 </p>
