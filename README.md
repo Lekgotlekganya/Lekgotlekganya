@@ -54,7 +54,6 @@ Completed the AWS re/Start learning journey, developing foundational knowledge o
 **Certification unlocked:**
 
 <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-[https://www.credly.com/badges/7cbe32d1-b43b-4bd2-a096-3390769235f0/public_url](https://www.credly.com/badges/7cbe32d1-b43b-4bd2-a096-3390769235f0/public_url)
 
 **Areas explored:**
 - Amazon EC2
